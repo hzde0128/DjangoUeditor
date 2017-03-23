@@ -6,6 +6,10 @@ Ueditor HTML编辑器是百度开源的在线HTML编辑器,功能非常强大，
 
 更新历史
 ============
+###[2017-3-23]
+
+* Fix:修改中文为zh-hans，增加对Django 1.9以后的支持
+
 ###[2015-1-17]     Ver:1.9.143
 
 * Fix:当models.py中toolbars变量使用unicode字符时，编辑器无法加载的问题
